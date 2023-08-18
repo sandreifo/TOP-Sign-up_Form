@@ -147,6 +147,12 @@ input {
 width: 16vw;
 height: 1.5vw;
 margin-top: 2px;
+
+}
+
+input:focus {
+	outline: none;
+	border: solid #BC3C0C 2px;
 }
 
 button {
